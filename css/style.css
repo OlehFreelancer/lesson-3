@@ -1,0 +1,75 @@
+/* @import url(null.css); */
+/* Добрый день. Я слышал что вы говорили использовать стили обнуления. Поэтому прошу извинить за что их не применил.
+Потому что вы также говорили что домашка в первую очередь для студента, мне так легче работать. Обещаю их включить как только выучим свойства разделения margin и padding*/
+/* красный, оранжевый, жёлтый, зелёный, голубой, синий, фиолетовый. */
+.header-title.title{
+	color: violet;
+}
+.header-subtitle {
+	color: lightcoral;
+}
+.header-menu li{
+	color: darkred;
+}
+.header-list>li>a{
+	color: skyblue;
+}
+/* №1 */
+.main .facts-title{
+	color: green;
+}
+#blue{
+	color: blueviolet;
+}
+.facts-text.lightblue{
+	color: lightblue;
+}
+.facts-text.yellow{
+	color: yellow;
+}
+.facts-text.orange{
+	color: orange;
+}
+.facts-text{
+	color: red;
+}
+p span{
+	color: lightskyblue;
+}
+.facts-title {
+	color: brown; 
+}
+.color-list li{
+	color: lightcoral;
+}
+.color-list>li{
+	color: lawngreen;
+}
+/* №6 */
+.joke-title{
+	color: hotpink;
+}
+.joke-text{
+	color:brown;
+}
+.joke-text ~ p{
+	color:burlywood;
+}
+body{
+	color: black;
+}
+ul li{
+	color: grey;
+}
+a{
+	color: darkslateblue;
+}
+p{
+	color: blue;
+} 
+h3{
+	color: indigo;
+}
+.title{
+	color: blue;
+}
